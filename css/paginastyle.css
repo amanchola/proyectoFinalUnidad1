@@ -1,0 +1,8 @@
+.barra{background-color: rgb(179, 239, 250) !important; 
+    color: blueviolet !important; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: x-large ;}
+
+
+body{background: url(../imagenes/vecteezy_background-fineartabstract_kp0121.jpg);background-size: cover;
+    background-attachment: fixed; color: rgb(102, 59, 59); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; }
